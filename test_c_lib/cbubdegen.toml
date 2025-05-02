@@ -1,0 +1,11 @@
+language = "C"
+output = "test_c_lib.h"
+
+[defines]
+# Add any custom defines if needed
+
+[includes]
+# Add any custom includes if needed
+
+[export]
+include = ["add_c"]
